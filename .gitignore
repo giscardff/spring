@@ -1,0 +1,6 @@
+# remove configuration folder
+springtest/.idea/
+*.iml
+
+# remove output folder
+springtest/target/
